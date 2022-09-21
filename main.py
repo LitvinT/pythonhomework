@@ -2,4 +2,6 @@ print('rewre')
 print('fds')
 print('hello python')
 print('fwd')
-
+print('hello python')
+print('rewwwer')
+print('reteert')
